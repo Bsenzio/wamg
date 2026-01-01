@@ -13,6 +13,5 @@ terms provided by the author.
 Specific free tracks were sourced from publicly released FamiTracker materials by Shiru.
 All rights remain with the original author.
 
-https://shiru.untergrund.net/software.shtml
-
-https://shiru.untergrund.net/donate.shtml
++ https://shiru.untergrund.net/music.shtml (Music :: 2A03 / Lawn Mower - soundtrack of a game, 3 songs)
++ https://shiru.untergrund.net/donate.shtml
