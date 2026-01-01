@@ -1,6 +1,6 @@
-# Bald B in Where Are My Veggies?
+<img src="/BaldBRepoTitle.jpg" width="400" />
 
-<img src="/BaldBSticker.jpg" width="400" />
+# Bald B in Where Are My Veggies?
 
 ## A Playable Game of Life on the Nintendo Entertainment System (NES)
 
