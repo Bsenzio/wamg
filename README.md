@@ -111,7 +111,7 @@ development environment for NES/Famicom games.
 
 The repository contains:
 - Complete CA65 assembly source code for the Game of Life kernel and gameplay logic
-- NESmaker project files (layouts, metadata, assets) as used in development
+- NESmaker project files (layouts and assets) as used in development
 - Compiled ROM (.nes) for immediate execution
 
 Rebuilding the ROM from source requires:
