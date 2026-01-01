@@ -20,6 +20,8 @@ The project accompanies the manuscript (*under revision*):
 *Genre*: *Educational game, Artificial Life, Retro Game*
 
 **Core Concept**:
+![Homebrew](/ROM/Screenshots/game_017.jpg) ![Homebrew](/ROM/Screenshots/game_020.jpg)
+
 A two-phase game in which player actions (vegetable collection under risk) determine the initial conditions of a real-time Game of Life simulation, 
 executed under authentic NES hardware constraints.
 
@@ -49,6 +51,8 @@ A fully playable version of the ROM is available online (no installation require
 🔗 https://theretroverse.com/product/bald-b-in-where-are-my-veggies/
 
 Local Execution
+
+![Homebrew](/ROM/Screenshots/game_020.jpg)
 
 You may also run the ROM locally using standard NES emulators such as:
 
