@@ -1,5 +1,5 @@
 # Bald B in Where Are My Veggies?
-##A Playable Game of Life on the Nintendo Entertainment System (NES)
+## A Playable Game of Life on the Nintendo Entertainment System (NES)
 
 
 This repository contains the complete source code, assets, and build materials for Bald B: Where Are My Veggies?, a fully playable Nintendo Entertainment System (NES/Famicom) game that embeds Conway’s Game of Life as a core gameplay mechanic for artificial life and educational purposes.
@@ -9,7 +9,7 @@ The project accompanies the manuscript:
 Vegetables, Enemies, and Emergence: A Playable Game of Life on Nintendo for Educational Purposes
 (submitted to the International Journal of Innovations in Machine Intelligence)
 
-###📌 Project Overview
+### 📌 Project Overview
 
 Platform: Nintendo Entertainment System / Famicom
 
@@ -20,7 +20,7 @@ A two-phase game in which player actions (vegetable collection under risk) deter
 
 The project demonstrates that emergent artificial-life behavior can be implemented and meaningfully explored on severely constrained 8-bit hardware, using careful algorithmic design, palette-based state encoding, and cycle-accurate programming.
 
-###📌🧠 Scientific Contribution
+### 🧠 Scientific Contribution
 
 This repository supports reproducibility of the following contributions:
 
@@ -42,7 +42,7 @@ non-trivial temporal evolution
 
 Integration of an artificial-life system into a fully playable NES game loop
 
-###📌▶️ Playing the Game
+### ▶️ Playing the Game
 Online Emulator
 
 A fully playable version of the ROM is available online (no installation required):
@@ -59,7 +59,7 @@ FCEUX
 
 Nestopia
 
-###📌🔁 Reproducibility
+### 🔁 Reproducibility
 
 This repository is designed to support full reproducibility of the published work:
 
@@ -75,18 +75,18 @@ Given identical inputs and ROM, behavior is deterministic across emulators and r
 
 To rebuild the ROM from source, you will need:
 
-CC65 toolchain (ca65, ld65)
+* * CC65 toolchain (ca65, ld65)
 
-NESmaker (for project structure and asset integration)
+* * NESmaker (for project structure and asset integration)
 
-NES Screen Tool (CHR/tile assets)
+* * NES Screen Tool (CHR/tile assets)
 
-FamiTracker (audio)
+* * FamiTracker (audio)
 
-A standard NES emulator for testing
+* * A standard NES emulator for testing
 
 
-###📌📄 License
+### 📄 License
 
 This project is released for academic, educational, and research use.
 
@@ -98,17 +98,17 @@ Art assets and documentation: CC BY-NC 4.0
 
 Please cite the associated publication when using this work in academic contexts.
 
-###📌📚 Citation
+### 📚 Citation
 
 Pending for publication resource to become available
 
-###📌👤 Author
+### 👤 Author
 
 Bruno Senzio-Savino Barzellato
 SenzioTek S. de R.L.
 Graduate School of Science and Engineering (Research Collaboration), Yamagata University
 
-###📌🧭 Notes
+### 🧭 Notes
 
 This repository corresponds to the post-review revised version of the manuscript.
 
