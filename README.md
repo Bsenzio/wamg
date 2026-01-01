@@ -1,5 +1,7 @@
 # Bald B in Where Are My Veggies?
 
+![Homebrew](/NESHomebrews.jpg)
+
 ## A Playable Game of Life on the Nintendo Entertainment System (NES)
 
 This repository contains the complete source code, assets, and build materials for Bald B: Where Are My Veggies?, a fully playable Nintendo Entertainment System (NES/Famicom) game 
