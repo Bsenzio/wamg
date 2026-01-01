@@ -1,4 +1,4 @@
-## 🎵 Audio Credits
+## 🎵 BGM Audio Credits
 
 The music used in this project was composed by **Shiru**, a well-known contributor to the
 NES homebrew and chiptune community.
