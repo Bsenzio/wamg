@@ -84,14 +84,14 @@ of the game for educational and archival purposes.
 
 The following items are provided:
 
-- 📘 **Printed Game Manual** (PDF, NES-style layout)  
+- 📘 **Printed Game Manual** (*PDF,print-ready design*)
   Explains Game of Life concepts, artificial life principles, and gameplay mechanics in a
   pedagogical format suitable for children, adolescents, and general audiences.
 
-- 🖼 **Box Art** (print-ready design)  
+- 🖼 **Box Art** (*PDF,print-ready design*)  
   Designed following classic NES packaging proportions for educational or exhibition use.
 
-- 🏷 **Cartridge Label Artwork**  
+- 🏷 **Cartridge Label Artwork** (*PDF,print-ready design*)
   Ready-to-print label design compatible with standard NES cartridges.
 
 These materials support **diversified pedagogical approaches**, combining:
