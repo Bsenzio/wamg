@@ -69,7 +69,7 @@ A short gameplay and technical demonstration video of **Bald B: Where Are My Veg
 is available at the following link:
 
 ▶️ **Watch the video:**  
-https://LINK-DEL-VIDEO-AQUÍ
+[https://www.youtube.com/watch?v=6K8MLqRcPp8](https://www.youtube.com/watch?v=6K8MLqRcPp8)
 
 The video showcases:
 - Phase 1: vegetable collection and enemy interaction  
