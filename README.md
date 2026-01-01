@@ -53,8 +53,6 @@ A fully playable version of the ROM is available online (no installation require
 
 Local Execution
 
-![Homebrew](/ROM/Screenshots/game_020.jpg)
-
 You may also run the ROM locally using standard NES emulators such as:
 
 * Mesen
