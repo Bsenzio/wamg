@@ -47,10 +47,6 @@ Integration of an artificial-life system into a fully playable NES game loop
 
 Online Emulator
 
-<p align="center" width="100%">
-<video src="https://www.youtube.com/embed/6K8MLqRcPp8?si=Q_ywaHocMM-xHYVN" width="80%" controls></video>
-</p>
-
 A fully playable version of the ROM is available online (no installation required):
 
 🔗 https://theretroverse.com/product/bald-b-in-where-are-my-veggies/
@@ -66,6 +62,20 @@ You may also run the ROM locally using standard NES emulators such as:
 * FCEUX
 
 * Nestopia
+
+## 🎮 Gameplay Video
+
+A short gameplay and technical demonstration video of **Bald B: Where Are My Veggies?**
+is available at the following link:
+
+▶️ **Watch the video:**  
+https://LINK-DEL-VIDEO-AQUÍ
+
+The video showcases:
+- Phase 1: vegetable collection and enemy interaction  
+- Phase 2: Game of Life simulation on NES hardware  
+- Real-time palette-based cell updates  
+- Serpentine traversal and VBlank-safe execution
 
 ## 📦 Physical Media and Printed Materials
 
@@ -135,6 +145,19 @@ Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0), unless otherwis
 This project was developed using NESmaker, a proprietary development tool.
 
 NESmaker itself is **not included** in this repository and remains subject to its own license.
+
+## 🎵 Audio Credits
+
+The music used in this project was composed by **Shiru**, a well-known contributor to the
+NES homebrew and chiptune community.
+
+Shiru has created numerous NES/Famicom-compatible audio tools and compositions,
+including widely used resources for FamiTracker-based development. His work has been
+instrumental in enabling high-quality audio production on authentic 8-bit hardware.
+
+Music is used with proper attribution and in accordance with the original distribution
+terms provided by the author.
+
 
 ### 📚 Citation
 
