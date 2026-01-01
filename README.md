@@ -47,7 +47,9 @@ Integration of an artificial-life system into a fully playable NES game loop
 
 Online Emulator
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6K8MLqRcPp8?si=Q_ywaHocMM-xHYVN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center" width="100%">
+<video src="https://www.youtube.com/embed/6K8MLqRcPp8?si=Q_ywaHocMM-xHYVN" width="80%" controls></video>
+</p>
 
 A fully playable version of the ROM is available online (no installation required):
 
