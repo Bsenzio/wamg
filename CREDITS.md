@@ -1,4 +1,4 @@
-## 🎵 BGM Audio Credits
+# 🎵 BGM Audio Credits
 
 The music used in this project was composed by **Shiru**, a well-known contributor to the
 NES homebrew and chiptune community.
@@ -13,5 +13,8 @@ terms provided by the author.
 Specific free tracks were sourced from publicly released FamiTracker materials by Shiru.
 All rights remain with the original author.
 
-+ https://shiru.untergrund.net/music.shtml (Music :: 2A03 / Lawn Mower - soundtrack of a game, 3 songs)
+#### Music :: 2A03 / Lawn Mower - soundtrack of a game, 3 songs
++ https://shiru.untergrund.net/music.shtml
+
+#### Disclaimer
 + https://shiru.untergrund.net/donate.shtml
