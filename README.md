@@ -1,6 +1,6 @@
-# wamg
-Bald B: Where Are My Veggies?
+# Bald B: Where Are My Veggies?
 A Playable Game of Life on the Nintendo Entertainment System (NES)
+
 
 This repository contains the complete source code, assets, and build materials for Bald B: Where Are My Veggies?, a fully playable Nintendo Entertainment System (NES/Famicom) game that embeds Conway’s Game of Life as a core gameplay mechanic for artificial life and educational purposes.
 
