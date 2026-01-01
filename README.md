@@ -113,7 +113,8 @@ To rebuild the ROM from source, you will need:
 *  *NES Screen Tool* (CHR/tile assets)
 *  *FamiTracker* (audio)
 *  A *standard NES emulator* for testing
-
+*  
+NESmaker project files are provided in their original directory structure. Compilation requires a licensed copy of NESmaker.
 
 ## 📄 License
 
