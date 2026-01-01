@@ -104,6 +104,21 @@ This repository is designed to support full reproducibility of the published wor
 * No hidden dependencies or proprietary binaries are required
 * Given identical inputs and ROM, behavior is *deterministic* across emulators and real hardware
 
+### Reproducibility Notes
+
+This project was developed using NESmaker, a proprietary commercial
+development environment for NES/Famicom games.
+
+The repository contains:
+- Complete CA65 assembly source code for the Game of Life kernel and gameplay logic
+- NESmaker project files (layouts, metadata, assets) as used in development
+- Compiled ROM (.nes) for immediate execution
+
+Rebuilding the ROM from source requires:
+- A licensed copy of NESmaker
+- The CC65 toolchain (ca65/ld65)
+- Standard NES development tools
+
 ## 🛠 Build Requirements
 
 To rebuild the ROM from source, you will need:
