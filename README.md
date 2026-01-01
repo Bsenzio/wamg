@@ -108,7 +108,7 @@ This repository is designed to support full reproducibility of the published wor
 
 The repository contains:
 - Complete CA65 assembly source code for the Game of Life kernel and gameplay logic
-- NESmaker project files (`.mod`) as used in development
+- NESmaker project files (`.mod` and `.mst` with backup variants) as used in development
 - Compiled ROMs (`.nes`) for immediate execution and debug tracking
 
 Rebuilding the ROM from source requires:
@@ -116,7 +116,7 @@ Rebuilding the ROM from source requires:
 - The CC65 toolchain (ca65/ld65)
 - Standard NES development tools
 
-The NESmaker `.mod` project file is included for completeness and transparency.
+The NESmaker `.mod` and `.mst` project files (and corresponding backup variants) are included for completeness and transparency.
 Opening or rebuilding the project requires a licensed copy of NESmaker, which is
 a proprietary development environment.
 
