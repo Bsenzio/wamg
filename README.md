@@ -20,7 +20,7 @@ The project accompanies the manuscript (*under revision*):
 *Genre*: *Educational game, Artificial Life, Retro Game*
 
 **Core Concept**:
-![Homebrew](/ROM/Screenshots/game_017.jpg) ![Homebrew](/ROM/Screenshots/game_020.jpg)
+![Homebrew](/ROM/Screenshots/game_017.png) ![Homebrew](/ROM/Screenshots/game_020.png)
 
 A two-phase game in which player actions (vegetable collection under risk) determine the initial conditions of a real-time Game of Life simulation, 
 executed under authentic NES hardware constraints.
