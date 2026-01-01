@@ -100,10 +100,10 @@ physical interaction, visual learning, and embodied gameplay with artificial-lif
 
 This repository is designed to support full reproducibility of the published work:
 
-* All Game of Life logic is implemented in deterministic CA65 assembly
-* Timing-critical routines are cycle-counted for NTSC hardware
+* All Game of Life logic is implemented in *deterministic CA65 assembly*
+* *Timing-critical* routines are *cycle-counted* for NTSC hardware
 * No hidden dependencies or proprietary binaries are required
-* Given identical inputs and ROM, behavior is deterministic across emulators and real hardware
+* Given identical inputs and ROM, behavior is *deterministic* across emulators and real hardware
 
 ### 🛠 Build Requirements
 
