@@ -69,6 +69,8 @@ You may also run the ROM locally using standard NES emulators such as:
 
 ## 📦 Physical Media and Printed Materials
 
+![Homebrew](/NESHomebrews.jpg)
+
 This repository also includes all materials required to reproduce the **physical edition**
 of the game for educational and archival purposes.
 
