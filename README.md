@@ -75,7 +75,7 @@ The video showcases:
 
 ## 📦 Physical Media and Printed Materials
 
-![Homebrew](/NESHomebrews.jpg)
+![/NESHomebrews.jpg, width=100](/NESHomebrews.jpg)
 
 This repository also includes all materials required to reproduce the **physical edition**
 of the game for educational and archival purposes.
