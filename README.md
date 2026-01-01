@@ -1,8 +1,9 @@
 # Bald B in Where Are My Veggies?
+
 ## A Playable Game of Life on the Nintendo Entertainment System (NES)
 
-
-This repository contains the complete source code, assets, and build materials for Bald B: Where Are My Veggies?, a fully playable Nintendo Entertainment System (NES/Famicom) game that embeds Conway’s Game of Life as a core gameplay mechanic for artificial life and educational purposes.
+This repository contains the complete source code, assets, and build materials for Bald B: Where Are My Veggies?, a fully playable Nintendo Entertainment System (NES/Famicom) game 
+that embeds Conway’s Game of Life as a core gameplay mechanic for artificial life and educational purposes.
 
 The project accompanies the manuscript (*under revision*):
 
@@ -10,18 +11,19 @@ The project accompanies the manuscript (*under revision*):
 
 (submitted to the International Journal of Innovations in Machine Intelligence)
 
-### 📌 Project Overview
+## 📌 Project Overview
 
-Platform: *Nintendo Entertainment System / Famicom*
+*Platform*: *Nintendo Entertainment System / Famicom*
 
-Genre: *Educational game, Artificial Life, Retro Game*
+*Genre*: *Educational game, Artificial Life, Retro Game*
 
 **Core Concept**:
 A two-phase game in which player actions (vegetable collection under risk) determine the initial conditions of a real-time Game of Life simulation, executed under authentic NES hardware constraints.
 
-The project demonstrates that emergent artificial-life behavior can be implemented and meaningfully explored on severely constrained 8-bit hardware, using careful algorithmic design, palette-based state encoding, and cycle-accurate programming.
+The project demonstrates that emergent artificial-life behavior can be implemented and meaningfully explored on severely constrained 8-bit hardware, 
+using careful algorithmic design, palette-based state encoding, and cycle-accurate programming.
 
-### 🧠 Scientific Contribution
+## 🧠 Scientific Contribution
 
 This repository supports reproducibility of the following contributions:
 
@@ -35,7 +37,7 @@ This repository supports reproducibility of the following contributions:
 
 Integration of an artificial-life system into a fully playable NES game loop
 
-### ▶️ Playing the Game
+## ▶️ Playing the Game
 
 Online Emulator
 
