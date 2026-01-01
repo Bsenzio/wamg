@@ -18,7 +18,8 @@ The project accompanies the manuscript (*under revision*):
 *Genre*: *Educational game, Artificial Life, Retro Game*
 
 **Core Concept**:
-A two-phase game in which player actions (vegetable collection under risk) determine the initial conditions of a real-time Game of Life simulation, executed under authentic NES hardware constraints.
+A two-phase game in which player actions (vegetable collection under risk) determine the initial conditions of a real-time Game of Life simulation, 
+executed under authentic NES hardware constraints.
 
 The project demonstrates that emergent artificial-life behavior can be implemented and meaningfully explored on severely constrained 8-bit hardware, 
 using careful algorithmic design, palette-based state encoding, and cycle-accurate programming.
@@ -80,13 +81,13 @@ physical interaction, visual learning, and embodied gameplay with artificial-lif
 
 This repository is designed to support full reproducibility of the published work:
 
-All Game of Life logic is implemented in deterministic CA65 assembly
+* All Game of Life logic is implemented in deterministic CA65 assembly
 
-Timing-critical routines are cycle-counted for NTSC hardware
+* Timing-critical routines are cycle-counted for NTSC hardware
 
-No hidden dependencies or proprietary binaries are required
+* No hidden dependencies or proprietary binaries are required
 
-Given identical inputs and ROM, behavior is deterministic across emulators and real hardware
+* Given identical inputs and ROM, behavior is deterministic across emulators and real hardware
 
 ### 🛠 Build Requirements
 
@@ -126,7 +127,7 @@ NESmaker itself is **not included** in this repository and remains subject to it
 
 *Pending for publication resource to become available*
 
-### 👤 Author
+### 👤 Authors 
 
 Bruno Senzio-Savino Barzellato
 
