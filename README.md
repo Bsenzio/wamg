@@ -4,16 +4,16 @@
 
 This repository contains the complete source code, assets, and build materials for Bald B: Where Are My Veggies?, a fully playable Nintendo Entertainment System (NES/Famicom) game that embeds Conway’s Game of Life as a core gameplay mechanic for artificial life and educational purposes.
 
-The project accompanies the manuscript:
+The project accompanies the manuscript (*under revision*):
 
-Vegetables, Enemies, and Emergence: A Playable Game of Life on Nintendo for Educational Purposes
+*Vegetables, Enemies, and Emergence: A Playable Game of Life on Nintendo for Educational Purposes*
 (submitted to the International Journal of Innovations in Machine Intelligence)
 
 ### 📌 Project Overview
 
-Platform: Nintendo Entertainment System / Famicom
+Platform: *Nintendo Entertainment System / Famicom*
 
-Genre: Educational game, Artificial Life, Retro Game
+Genre: *Educational game, Artificial Life, Retro Game*
 
 Core Concept:
 A two-phase game in which player actions (vegetable collection under risk) determine the initial conditions of a real-time Game of Life simulation, executed under authentic NES hardware constraints.
@@ -43,6 +43,7 @@ This repository supports reproducibility of the following contributions:
 Integration of an artificial-life system into a fully playable NES game loop
 
 ### ▶️ Playing the Game
+
 Online Emulator
 
 A fully playable version of the ROM is available online (no installation required):
@@ -71,7 +72,7 @@ No hidden dependencies or proprietary binaries are required
 
 Given identical inputs and ROM, behavior is deterministic across emulators and real hardware
 
-###📌🛠 Build Requirements
+### 🛠 Build Requirements
 
 To rebuild the ROM from source, you will need:
 
@@ -100,15 +101,15 @@ Please cite the associated publication when using this work in academic contexts
 
 ### 📚 Citation
 
-Pending for publication resource to become available
+*Pending for publication resource to become available*
 
 ### 👤 Author
 
 Bruno Senzio-Savino Barzellato
 
-SenzioTek S. de R.L.
+*SenzioTek S. de R.L.*
 
-Graduate School of Science and Engineering (Research Collaboration), Yamagata University
+*Graduate School of Science and Engineering (Research Collaboration), Yamagata University*
 
 ### 🧭 Notes
 
