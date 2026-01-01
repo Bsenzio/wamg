@@ -2,7 +2,7 @@
 
 # Bald B in Where Are My Veggies?
 
-## A Playable Game of Life on the Nintendo Entertainment System (NES)
+### A Playable Game of Life on the Nintendo Entertainment System (NES)
 
 This repository contains the complete source code, assets, and build materials for *Bald B in Where Are My Veggies?*, a fully playable Nintendo Entertainment System (NES/Famicom) game 
 that embeds Conway’s Game of Life as a core gameplay mechanic for artificial life and educational purposes.
@@ -95,8 +95,7 @@ The following items are provided:
 These materials support **diversified pedagogical approaches**, combining:
 physical interaction, visual learning, and embodied gameplay with artificial-life concepts.
 
-
-### 🔁 Reproducibility
+## 🔁 Reproducibility
 
 This repository is designed to support full reproducibility of the published work:
 
@@ -105,7 +104,7 @@ This repository is designed to support full reproducibility of the published wor
 * No hidden dependencies or proprietary binaries are required
 * Given identical inputs and ROM, behavior is *deterministic* across emulators and real hardware
 
-### 🛠 Build Requirements
+## 🛠 Build Requirements
 
 To rebuild the ROM from source, you will need:
 
@@ -135,11 +134,11 @@ This project was developed using NESmaker, a proprietary development tool.
 
 NESmaker itself is **not included** in this repository and remains subject to its own license.
 
-### 📚 Citation
+## 📚 Citation
 
 *Pending for publication resource to become available*
 
-### 👤 Authors 
+## 👤 Authors 
 
 + Bruno Senzio-Savino Barzellato
 
@@ -157,7 +156,7 @@ NESmaker itself is **not included** in this repository and remains subject to it
 
 *4-3-16, Jonan, Yonezawa City, Yamagata Prefecture 992-8510*
 
-### 🧭 Notes
+## 🧭 Notes
 
 This repository corresponds to the post-review revised version of the manuscript.
 
