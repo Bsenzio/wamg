@@ -1,4 +1,4 @@
-# Bald B: Where Are My Veggies?
+# Bald B in Where Are My Veggies?
 A Playable Game of Life on the Nintendo Entertainment System (NES)
 
 
