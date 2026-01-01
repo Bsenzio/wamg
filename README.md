@@ -173,9 +173,11 @@ Bruno Senzio-Savino Barzellato
 
 Faramarz Alsharif 
 
-*Graduate School ofScience and Engineering, Mathematical and Informatics , System Course FacultyofEngineering
-DepartmentofInformatics and Electronics , Electrical, Electronics and Communication Course , Yamagata
-University, 4-3-16, Jonan, Yonezawa City, Yamagata Prefecture 992-8510*
+*Graduate School of Science and Engineering, Mathematical and Informatics , System Course Faculty of Engineering,
+
+Department of Informatics and Electronics , Electrical, Electronics and Communication Course , Yamagata University, 
+
+4-3-16, Jonan, Yonezawa City, Yamagata Prefecture 992-8510*
 
 ### 🧭 Notes
 
