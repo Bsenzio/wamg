@@ -19,7 +19,7 @@ The project accompanies the manuscript (*under revision*):
 
 *Genre*: *Educational game, Artificial Life, Retro Game*
 
-![Homebrew](/ROM/Screenshots/game_000.png)  ![Homebrew](/ROM/Screenshots/game_017.png)     ![Homebrew](/ROM/Screenshots/game_020.png)
+![p1](/ROM/Screenshots/game_000.png)  ![p2](/ROM/Screenshots/game_017.png)     ![p3](/ROM/Screenshots/game_020.png)
 
 **Core Concept**:
 
@@ -46,6 +46,8 @@ Integration of an artificial-life system into a fully playable NES game loop
 ## ▶️ Playing the Game
 
 Online Emulator
+
+![Homebrew](/ROM/Where Are My Veggies Demo Gameplay.mp4)
 
 A fully playable version of the ROM is available online (no installation required):
 
