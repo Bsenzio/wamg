@@ -119,6 +119,13 @@ Rebuilding the ROM from source requires:
 - The CC65 toolchain (ca65/ld65)
 - Standard NES development tools
 
+The NESmaker `.mod` project file is included for completeness and transparency.
+Opening or rebuilding the project requires a licensed copy of NESmaker, which is
+a proprietary development environment.
+
+The `.mod` file does not contain the NESmaker engine or proprietary binaries.
+It represents the project state, assets, and configuration as used during development.
+
 ## 🛠 Build Requirements
 
 To rebuild the ROM from source, you will need:
