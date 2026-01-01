@@ -82,14 +82,14 @@ of the game for educational and archival purposes.
 
 The following items are provided:
 
-- 📘 **Printed Game Manual** (*PDF,print-ready design*)
+- 📘 **Printed Game Manual** (`.pdf` *print-ready design*)
   Explains Game of Life concepts, artificial life principles, and gameplay mechanics in a
   pedagogical format suitable for children, adolescents, and general audiences.
 
-- 🖼 **Box Art** (*PDF,print-ready design*)  
+- 🖼 **Box Art** (`.pdf` *print-ready design*)
   Designed following classic NES packaging proportions for educational or exhibition use.
 
-- 🏷 **Cartridge Label Artwork** (*PDF,print-ready design*)
+- 🏷 **Cartridge Label Artwork** (`.pdf` *print-ready design*)
   Ready-to-print label design compatible with standard NES cartridges.
 
 These materials support **diversified pedagogical approaches**, combining:
@@ -106,13 +106,10 @@ This repository is designed to support full reproducibility of the published wor
 
 ### Reproducibility Notes
 
-This project was developed using NESmaker, a proprietary commercial
-development environment for NES/Famicom games.
-
 The repository contains:
 - Complete CA65 assembly source code for the Game of Life kernel and gameplay logic
-- NESmaker project files (layouts and assets) as used in development
-- Compiled ROM (.nes) for immediate execution
+- NESmaker project files (`.mod`) as used in development
+- Compiled ROMs (`.nes`) for immediate execution and debug tracking
 
 Rebuilding the ROM from source requires:
 - A licensed copy of NESmaker
