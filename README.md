@@ -16,7 +16,7 @@ Platform: *Nintendo Entertainment System / Famicom*
 
 Genre: *Educational game, Artificial Life, Retro Game*
 
-Core Concept:
+**Core Concept**:
 A two-phase game in which player actions (vegetable collection under risk) determine the initial conditions of a real-time Game of Life simulation, executed under authentic NES hardware constraints.
 
 The project demonstrates that emergent artificial-life behavior can be implemented and meaningfully explored on severely constrained 8-bit hardware, using careful algorithmic design, palette-based state encoding, and cycle-accurate programming.
@@ -52,6 +52,27 @@ You may also run the ROM locally using standard NES emulators such as:
 * FCEUX
 
 * Nestopia
+
+## 📦 Physical Media and Printed Materials
+
+This repository also includes all materials required to reproduce the **physical edition**
+of the game for educational and archival purposes.
+
+The following items are provided:
+
+- 📘 **Printed Game Manual** (PDF, NES-style layout)  
+  Explains Game of Life concepts, artificial life principles, and gameplay mechanics in a
+  pedagogical format suitable for children, adolescents, and general audiences.
+
+- 🖼 **Box Art** (print-ready design)  
+  Designed following classic NES packaging proportions for educational or exhibition use.
+
+- 🏷 **Cartridge Label Artwork**  
+  Ready-to-print label design compatible with standard NES cartridges.
+
+These materials support **diversified pedagogical approaches**, combining:
+physical interaction, visual learning, and embodied gameplay with artificial-life concepts.
+
 
 ### 🔁 Reproducibility
 
