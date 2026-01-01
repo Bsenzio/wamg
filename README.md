@@ -1,6 +1,6 @@
 # Bald B in Where Are My Veggies?
 
-![Homebrew](/BaldBSticker.jpg)
+<img src="/BaldBSticker.jpg" width="400" />
 
 ## A Playable Game of Life on the Nintendo Entertainment System (NES)
 
@@ -75,8 +75,8 @@ The video showcases:
 
 ## 📦 Physical Media and Printed Materials
 
-![/NESHomebrews.jpg, width=100](/NESHomebrews.jpg)
-<img src="/NESHomebrews.jpg" width="300" />
+<img src="/NESHomebrews.jpg" width="400" />
+
 This repository also includes all materials required to reproduce the **physical edition**
 of the game for educational and archival purposes.
 
