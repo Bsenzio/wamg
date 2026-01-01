@@ -123,6 +123,9 @@ a proprietary development environment.
 The `.mod` file does not contain the NESmaker engine or proprietary binaries.
 It represents the project state, assets, and configuration as used during development.
 
+Screenshots of NESmaker project configuration are provided for documentation
+and reproducibility purposes.
+
 ## 🛠 Build Requirements
 
 To rebuild the ROM from source, you will need:
