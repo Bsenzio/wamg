@@ -18,6 +18,7 @@ The project accompanies the manuscript (*under revision*):
 *Platform*: *Nintendo Entertainment System / Famicom*
 
 *Genre*: *Educational game, Artificial Life, Retro Game*
+
 ![Homebrew](/ROM/Screenshots/game_017.png)     ![Homebrew](/ROM/Screenshots/game_020.png)
 
 **Core Concept**:
