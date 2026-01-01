@@ -31,15 +31,7 @@ This repository supports reproducibility of the following contributions:
 
 * A serpentine grid traversal strategy for efficient VRAM updates
 
-* A guided randomness design that exposes players to:
-
-** emergence
-
-** persistence
-
-** unpredictability
-
-**non-trivial temporal evolution
+* A guided randomness design that exposes players to: emergence, persistence, unpredictability, non-trivial temporal evolution
 
 Integration of an artificial-life system into a fully playable NES game loop
 
@@ -88,17 +80,24 @@ To rebuild the ROM from source, you will need:
 *  A standard NES emulator for testing
 
 
-### 📄 License
+## 📄 License
 
-This project is released for academic, educational, and research use.
+### Source Code
+All original source code developed by the author (including CA65 assembly routines,
 
-Unless otherwise noted:
+Game of Life kernel, traversal logic, and PPU update mechanisms) is released under the
 
-Source code: MIT License
+MIT License.
 
-Art assets and documentation: CC BY-NC 4.0
+### Assets and Documentation
+Game manual, box art, cartridge label designs, and documentation are released under
 
-Please cite the associated publication when using this work in academic contexts.
+Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0), unless otherwise stated.
+
+### Third-Party Tools
+This project was developed using NESmaker, a proprietary development tool.
+
+NESmaker itself is **not included** in this repository and remains subject to its own license.
 
 ### 📚 Citation
 
