@@ -75,15 +75,15 @@ Given identical inputs and ROM, behavior is deterministic across emulators and r
 
 To rebuild the ROM from source, you will need:
 
-* * CC65 toolchain (ca65, ld65)
+*  CC65 toolchain (ca65, ld65)
 
-* * NESmaker (for project structure and asset integration)
+*  NESmaker (for project structure and asset integration)
 
-* * NES Screen Tool (CHR/tile assets)
+*  NES Screen Tool (CHR/tile assets)
 
-* * FamiTracker (audio)
+*  FamiTracker (audio)
 
-* * A standard NES emulator for testing
+*  A standard NES emulator for testing
 
 
 ### 📄 License
