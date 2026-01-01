@@ -70,8 +70,8 @@ is available at the following link:
 [https://www.youtube.com/watch?v=6K8MLqRcPp8](https://www.youtube.com/watch?v=6K8MLqRcPp8)
 
 The video showcases:
-- Phase 1: vegetable collection and enemy interaction  
-- Phase 2: Game of Life simulation on NES hardware  
+- *Phase 1*: vegetable collection and enemy interaction  
+- *Phase 2*: Game of Life simulation on NES hardware  
 - Real-time palette-based cell updates  
 - Serpentine traversal and VBlank-safe execution
 
