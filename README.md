@@ -157,6 +157,13 @@ This project was developed using NESmaker, a proprietary development tool.
 
 NESmaker itself is **not included** in this repository and remains subject to its own license.
 
+Third-party assets are NOT covered by this license:
+- Music by Shiru (used with permission / original homebrew tracks)
+- Sound effects provided by NESmaker (used under NESmaker license)
+- Nintendo trademarks are acknowledged and not claimed
+
+See LICENSE file for details.
+
 ## 📚 Citation
 
 *Pending for publication resource to become available*
