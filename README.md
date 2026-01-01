@@ -55,11 +55,9 @@ Local Execution
 
 You may also run the ROM locally using standard NES emulators such as:
 
-* Mesen
-
-* FCEUX
-
-* Nestopia
+* *Mesen*
+* *FCEUX*
+* *Nestopia*
 
 ## 🎮 Gameplay Video
 
@@ -103,26 +101,19 @@ physical interaction, visual learning, and embodied gameplay with artificial-lif
 This repository is designed to support full reproducibility of the published work:
 
 * All Game of Life logic is implemented in deterministic CA65 assembly
-
 * Timing-critical routines are cycle-counted for NTSC hardware
-
 * No hidden dependencies or proprietary binaries are required
-
 * Given identical inputs and ROM, behavior is deterministic across emulators and real hardware
 
 ### 🛠 Build Requirements
 
 To rebuild the ROM from source, you will need:
 
-*  CC65 toolchain (ca65, ld65)
-
-*  NESmaker (for project structure and asset integration)
-
-*  NES Screen Tool (CHR/tile assets)
-
-*  FamiTracker (audio)
-
-*  A standard NES emulator for testing
+*  *CC65 toolchain* (ca65, ld65)
+*  *NESmaker* (for project structure and asset integration)
+*  *NES Screen Tool* (CHR/tile assets)
+*  *FamiTracker* (audio)
+*  A *standard NES emulator* for testing
 
 
 ## 📄 License
