@@ -24,21 +24,21 @@ The project demonstrates that emergent artificial-life behavior can be implement
 
 This repository supports reproducibility of the following contributions:
 
-A cycle-accurate Game of Life kernel implemented in 6502 assembly (CA65)
+* A cycle-accurate Game of Life kernel implemented in 6502 assembly (CA65)
 
-A palette-based binary state encoding compatible with NES PPU timing
+* A palette-based binary state encoding compatible with NES PPU timing
 
-A serpentine grid traversal strategy for efficient VRAM updates
+* A serpentine grid traversal strategy for efficient VRAM updates
 
-A guided randomness design that exposes players to:
+* A guided randomness design that exposes players to:
 
-emergence
+** emergence
 
-persistence
+** persistence
 
-unpredictability
+** unpredictability
 
-non-trivial temporal evolution
+**non-trivial temporal evolution
 
 Integration of an artificial-life system into a fully playable NES game loop
 
@@ -53,11 +53,11 @@ Local Execution
 
 You may also run the ROM locally using standard NES emulators such as:
 
-Mesen
+* Mesen
 
-FCEUX
+* FCEUX
 
-Nestopia
+* Nestopia
 
 ### 🔁 Reproducibility
 
@@ -105,7 +105,9 @@ Pending for publication resource to become available
 ### 👤 Author
 
 Bruno Senzio-Savino Barzellato
+
 SenzioTek S. de R.L.
+
 Graduate School of Science and Engineering (Research Collaboration), Yamagata University
 
 ### 🧭 Notes
