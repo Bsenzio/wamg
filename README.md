@@ -163,7 +163,7 @@ terms provided by the author.
 
 ### 👤 Authors 
 
-#### Bruno Senzio-Savino Barzellato
++ Bruno Senzio-Savino Barzellato
 
 *SenzioTek S. de R.L.* 
 
@@ -171,7 +171,7 @@ terms provided by the author.
 
 *Graduate School of Science and Engineering (Research Collaboration), Yamagata University*
 
-#### Faramarz Alsharif 
++ Faramarz Alsharif 
 
 *Graduate School of Science and Engineering, Mathematical and Informatics , System Course Faculty of Engineering,*
 
