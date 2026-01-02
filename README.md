@@ -11,7 +11,7 @@ The project accompanies the manuscript (*under revision*):
 
 *Vegetables, Enemies, and Emergence: A Playable Game of Life on Nintendo for Educational Purposes*
 
-(submitted to the International Journal of Innovations in Machine Intelligence)
+(*submitted to the International Journal of Innovations in Machine Intelligence*)
 
 ## 📌 Project Overview
 
