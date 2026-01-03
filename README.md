@@ -63,10 +63,7 @@ You may also run the ROM locally using standard NES emulators such as:
 ## 🎮 Gameplay Video
 
 A short gameplay and technical demonstration video of **Bald B: Where Are My Veggies?**
-is available at the following link:
-
-▶️ **Watch the video:**  
-[https://www.youtube.com/watch?v=6K8MLqRcPp8](https://www.youtube.com/watch?v=6K8MLqRcPp8)
+is available as well
 
 The video showcases:
 - *Phase 1*: Vegetable budget collection and enemy interaction  
