@@ -170,21 +170,7 @@ See LICENSE file for details.
 
 ## 👤 Authors 
 
-+ Bruno Senzio-Savino Barzellato
-
-*SenzioTek S. de R.L.* 
-
-🔗 [https://www.senzio-tek.com](https://www.senzio-tek.com)
-
-*Graduate School of Science and Engineering (Research Collaboration), Yamagata University*
-
-+ Faramarz Alsharif 
-
-*Graduate School of Science and Engineering, Mathematical and Informatics , System Course Faculty of Engineering,*
-
-*Department of Informatics and Electronics , Electrical, Electronics and Communication Course , Yamagata University,*
-
-*4-3-16, Jonan, Yonezawa City, Yamagata Prefecture 992-8510*
+*Pending for publication resource to become available*
 
 ## 🧭 Notes
 
