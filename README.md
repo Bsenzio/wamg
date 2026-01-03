@@ -50,7 +50,7 @@ Online Emulator
 
 A fully playable version of the ROM is available online (no installation required):
 
-🔗 https://theretroverse.com/product/bald-b-in-where-are-my-veggies/
+🔗 <a href="https://theretroverse.com/product/bald-b-in-where-are-my-veggies/">
 
 Local Execution
 
