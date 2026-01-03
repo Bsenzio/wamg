@@ -75,7 +75,7 @@ The video showcases:
 
 ## 📦 Physical Media and Printed Materials
 
-<img src="/NESHomebrews.jpg" width="400" />
+<img src="(https://anonymous.4open.science/r/wamg-5913/NESHomebrews.jpg" width="400" />
 
 This repository also includes all materials required to reproduce the **physical edition**
 of the game for educational and archival purposes.
