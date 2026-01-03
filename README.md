@@ -1,4 +1,4 @@
-<img src="/BaldBRepoTitle.jpg" width="400" />
+<img src="https://anonymous.4open.science/r/wamg-5913/BaldBRepoTitle.jpg" width="400" />
 
 # Bald B in Where Are My Veggies?
 
@@ -19,7 +19,7 @@ The project accompanies the manuscript (*under revision*):
 
 *Genre*: *Educational game, Artificial Life, Retro Game*
 
-![p1](/ROM/Screenshots/game_000.png)  ![p2](/ROM/Screenshots/game_017.png)     ![p3](/ROM/Screenshots/game_020.png)
+![p1](https://anonymous.4open.science/r/wamg-5913/NESHomebrews.jpg/ROM/Screenshots/game_000.png)  ![p2](https://anonymous.4open.science/r/wamg-5913/NESHomebrews.jpg/ROM/Screenshots/game_017.png)     ![p3](https://anonymous.4open.science/r/wamg-5913/NESHomebrews.jpg/ROM/Screenshots/game_020.png)
 
 **Core Concept**:
 
