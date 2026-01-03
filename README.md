@@ -18,8 +18,8 @@ The project accompanies the manuscript (*under revision*):
 *Platform*: *Nintendo Entertainment System / Famicom*
 
 *Genre*: *Educational game, Artificial Life, Retro Game*
+<img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_000.png" width="100" /><img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_017.png" width="100" /><img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_020.png" width="100" />
 
-![p1](https://anonymous.4open.science/r/wamg-5913/NESHomebrews.jpg/ROM/Screenshots/game_000.png)  ![p2](https://anonymous.4open.science/r/wamg-5913/NESHomebrews.jpg/ROM/Screenshots/game_017.png)     ![p3](https://anonymous.4open.science/r/wamg-5913/NESHomebrews.jpg/ROM/Screenshots/game_020.png)
 
 **Core Concept**:
 
