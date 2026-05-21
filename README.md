@@ -7,12 +7,6 @@
 This repository contains the complete source code, assets, and build materials for *Bald B in Where Are My Veggies?*, a fully playable Nintendo Entertainment System (NES/Famicom) game 
 that embeds Conway’s Game of Life as a core gameplay mechanic for artificial life and educational purposes.
 
-The project accompanies the manuscript (*under revision*):
-
-*Vegetables, Enemies, and Emergence: A Playable Game of Life on Nintendo for Educational Purposes*
-
-(*submitted to the International Journal of Innovations in Machine Intelligence*)
-
 ## 📌 Project Overview
 
 *Platform*: *Nintendo Entertainment System / Famicom*
