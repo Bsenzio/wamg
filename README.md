@@ -19,7 +19,8 @@ The project accompanies the manuscript (*under revision*):
 
 *Genre*: *Educational game, Artificial Life, Retro Game*
 
-<img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_000.png" width="200" /><img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_017.png" width="200" /><img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_020.png" width="200" />
+<img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_000.png" width="200" /><img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_017.png" width="200" /><img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/game_020.png" width="200" /><img src="https://anonymous.4open.science/r/wamg-5913/ROM/Screenshots/wamv2_0_000.png" width="200" />
+
 
 
 **Core Concept**:
@@ -171,8 +172,6 @@ See LICENSE file for details.
 *Pending for publication resource to become available*
 
 ## 🧭 Notes
-
-+ This repository corresponds to the post-review revised version of the manuscript.
 
 + Earlier experimental commits may not reflect the final publication behavior.
 
