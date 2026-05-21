@@ -37,6 +37,8 @@ This repository supports reproducibility of the following contributions:
 
 * A guided randomness design that exposes players to: emergence, persistence, unpredictability, non-trivial temporal evolution
 
+* A manual placement alternative for cook-it-alls
+
 Integration of an artificial-life system into a fully playable NES game loop
 
 ## ▶️ Playing the Game
@@ -60,9 +62,11 @@ You may also run the ROM locally using standard NES emulators such as:
 A short gameplay and technical demonstration video of **Bald B: Where Are My Veggies?**
 is available as well
 
+An additional video showcases the manual placement option,
+
 The video showcases:
 - *Phase 1*: Vegetable budget collection and enemy interaction  
-- *Phase 2*: Game of Life simulation on NES hardware  
+- *Phase 2*: Game of Life simulation on NES hardware  (Manual or Random)
 - **Real-time** palette-based cell updates  
 - Serpentine traversal and **VBlank-safe** execution
 
